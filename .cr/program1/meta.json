@@ -22,7 +22,7 @@
     "default": {
       "ignore_return_code": "no",
       "run_time": {
-        "run_cmd_main": "$<<CK_ENV_COMPILER_PYTHON_FILE>>$ ..$#dir_sep#$hello-world.py",
+        "run_cmd_main": "$<<CK_ENV_COMPILER_PYTHON_FILE>>$ ..$#dir_sep#$CR$#dir_sep#$my_code$#dir_sep#$hello-world.py",
         "run_cmd_out1": "stdout.log",
         "run_cmd_out2": "stderr.log",
         "run_output_files": [
