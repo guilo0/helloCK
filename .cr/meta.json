@@ -4,6 +4,7 @@
     "master",
     "v0.1.0"
   ],
+  "description": "",
   "programs":{
     "program1":{
       "files":[
