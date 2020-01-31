@@ -11,7 +11,7 @@ import os
 
 def run():
 
-    print ("Hello world new generation")
+    print ("new program for next release")
 
     print ("")
     print ("CK_VAR1: "+os.environ.get('CK_VAR1',''))
