@@ -6,22 +6,22 @@
   ],
   "programs":[
     "program1":{
-      "files":{[
+      "files":[
         "my_code/hello-world.py"
       ],
       "version":[
         "master",
         "v0.1.0"
-      ]}
+      ]
     },
     "program2":{
-      "files":{[
+      "files":[
         "my_code/hello-world-2.py"
       ],
       "version":[
         "master",
         "v0.1.0"
-      ]}
+      ]
     }
   ],
   "packages":[],
