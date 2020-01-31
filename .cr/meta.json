@@ -23,6 +23,14 @@
         "master",
         "v0.1.0"
       ]
+    },
+    "program3":{
+      "files":[
+        "my_code/hello-world-3.py"
+      ],
+      "version":[
+        "master",
+      ]
     }
   },
   "packages":[],
