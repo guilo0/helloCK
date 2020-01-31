@@ -5,8 +5,24 @@
     "v0.1.0"
   ],
   "programs":[
-    "program1",
-    "program2"
+    "program1":{
+      "files":[
+        "my_code/hello-world.py"
+      ],
+      "version":[
+        "master",
+        "v0.1.0"
+      ]
+    },
+    "program2":{
+      "files":[
+        "my_code/hello-world-2.py"
+      ],
+      "version":[
+        "master",
+        "v0.1.0"
+      ]
+    }
   ],
   "packages":[],
   "softs":[],
