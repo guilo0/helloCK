@@ -9,7 +9,7 @@
 
 import os
 
-def run():
+def test():
 
     print ("new program for next release")
 
@@ -20,4 +20,4 @@ def run():
     return 0
 
 if __name__ == '__main__':
-  exit(run())
+  exit(test())
