@@ -1,0 +1,13 @@
+{
+  "origin":"https://github.com/guilo0/helloCK",
+  "version":[
+    "master",
+    "v0.1.0"
+  ],
+  "programs":[
+    "program1",
+    ""program2"
+  ],
+  "packages":[],
+  "softs":[],
+}
