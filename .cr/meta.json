@@ -4,7 +4,7 @@
     "master",
     "v0.1.0"
   ],
-  "description": "",
+  "description": "Demonstration of github workspace conversion",
   "programs":{
     "program1":{
       "files":[
