@@ -4,7 +4,7 @@
     "master",
     "v0.1.0"
   ],
-  "programs":[
+  "programs":{
     "program1":{
       "files":[
         "my_code/hello-world.py"
@@ -23,7 +23,7 @@
         "v0.1.0"
       ]
     }
-  ],
+  },
   "packages":[],
   "softs":[],
 }
